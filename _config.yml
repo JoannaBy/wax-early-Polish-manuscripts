@@ -19,10 +19,10 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Cool early Polish manuscripts'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+description:      'Wax website with early Polish manuscripts'
+url:              'https://joannaby.github.io'
+baseurl:          '/epm'
+copyright:        'JoannaBy, 2019'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -85,7 +85,7 @@ search:
     index: '/search/index.json' # file the index will get written to
     collections:
       polish:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
           - artist
           - location
@@ -106,8 +106,6 @@ menu:
     sub:
       - label: 'Cool early Polish manuscripts'
         link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
