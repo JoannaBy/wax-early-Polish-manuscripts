@@ -9,9 +9,9 @@ object_type: manuscript
 current_location_city: Kraków
 source: https://jbc.bj.uj.edu.pl/dlibra/publication/361802/edition/345201/content
 order: '1'
-thumbnail: 
-full: 
-manifest: 
+thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj1/full/full/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj1/manifest.json" 
 layout: polish_item
 collection: polish
 ---
