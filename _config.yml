@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Cool early Polish manuscripts'
+title:            'Early Polish manuscripts'
 description:      'Wax website with early Polish manuscripts'
 url:              'https://joannaby.github.io'
 baseurl:          '/epm'

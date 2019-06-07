@@ -6,6 +6,11 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj4/manifest.json",
   "@type": "sc:Manifest",
   "label": "obj4",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "http://localhost:8080/search-api/obj4/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+   },
   "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
