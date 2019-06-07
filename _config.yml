@@ -92,7 +92,7 @@ search:
           - label
           - _date
           - object_type
-          - current_location
+          - current_location_city
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
