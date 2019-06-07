@@ -3,7 +3,7 @@ layout: page
 show_title: true
 banner:
   collection: polish
-  pid: obj10
+  pid: obj1
   y: 25%
   height: '500px'
 ---
